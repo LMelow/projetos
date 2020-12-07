@@ -1,7 +1,7 @@
-class Opera{
-  public static void main(Strings args[]){
+class opera{
+  public static void main(String args[]){
       //tetete coments
       System.out.println("Hello World!");
-      System.out.println("Oi1")
+      System.out.println("Oi1");
   }
 }
